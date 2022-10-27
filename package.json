@@ -1,0 +1,25 @@
+{
+  "name": "random-str-messange",
+  "version": "1.0.0",
+  "description": "Random string messange app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londocg/random-str-messange.git"
+  },
+  "keywords": [],
+  "author": "Leonardo Cabezas Grajales <leonardo2182@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/londocg/random-str-messange/issues"
+  },
+  "homepage": "https://github.com/londocg/random-str-messange#readme",
+
+  "bin": {
+    "random-str-messange": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
